@@ -58,7 +58,7 @@ An Telegram Bot By [@ZauteKm](https://t.me/ZauteKm) To Stream Videos In Telegram
 
 ## Self Host
 ```sh
-$ git clone -b master https://github.com/ZauteKm/VideoPlayerBot
+$ git clone -b master https://github.com/saji76sj/VideoPlayerBot
 $ cd VideoStreamBot
 $ sudo apt install git curl python3-pip ffmpeg -y
 $ pip3 install -U pip
